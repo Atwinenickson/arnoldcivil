@@ -12,11 +12,11 @@ function Common({ name, imgsrc, visit, btname }) {
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h1>
                     {name}
-                    <strong className="brand-name"> GrowMore Inc. </strong>
+                    <strong className="brand-name">Takworld Experts Limited </strong>
                   </h1>
 
                   <h2 className="my-3">
-                    We're a team of talented developers that can help your
+                    We're a team of talented civil engineers that can help your
                     business grow!
                   </h2>
 

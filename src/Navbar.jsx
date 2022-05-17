@@ -9,7 +9,7 @@ function Navbar() {
           <div className="col-10 mx-auto">
             <nav className="navbar navbar-expand-lg">
               <NavLink className="navbar-brand" to="/">
-                GrowMore Inc.
+                Takworld Experts Limited
               </NavLink>
               <button className="navbar-toggler" type="button">
                 <span className="navbar-toggler-icon"></span>
