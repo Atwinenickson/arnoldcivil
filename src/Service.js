@@ -18,12 +18,12 @@ function Service() {
         <div className="row">
           <div className="col-10 mx-auto">
             <div className="row gy-4">
-              <Card title="Android Development" imgsrc={img1} />
-              <Card title="Web Development" imgsrc={img2} />
-              <Card title="Database Management" imgsrc={img3} />
-              <Card title="Business Analytics" imgsrc={img4} />
-              <Card title="Digital Marketing" imgsrc={img5} />
-              <Card title="Video Creation" imgsrc={img6} />
+              <Card title="Construction" imgsrc={img1} />
+              <Card title="Ground Works" imgsrc={img2} />
+              <Card title="Contractings" imgsrc={img3} />
+              <Card title="Tiling" imgsrc={img4} />
+              <Card title="Another Service" imgsrc={img5} />
+              <Card title="Another Service" imgsrc={img6} />
             </div>
           </div>
         </div>
